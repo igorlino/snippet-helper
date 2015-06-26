@@ -1,0 +1,49 @@
+{
+    "name": "snippet-helper",
+    "title": "Snippet Helper",
+    "version": "1.0.0",
+    "description": "An utility library of code snippets with Prism highlighting support.",
+    "keywords": [
+        "code",
+        "snippets",
+        "prism",
+        "highlighting"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/igorlino/snippet-helper.git"
+    },
+    "author": {
+        "name": "Igor Lino",
+        "url": "https://github.com/igorlino"
+    },
+    "license": "MIT",
+    "contributors": [
+        {
+            "name": "Igor Lino",
+            "email": "igorlino@github.com",
+            "url": "https://github.com/igorlino"
+        }
+    ],
+    "bugs": "https://github.com/igorlino/snippet-helper/issues",
+    "homepage": "http://igorlino.github.io/snippet-helper/",
+    "docs": "http://igorlino.github.io/snippet-helper/examples",
+    "demo": "http://igorlino.github.io/snippet-helper/examples",
+    "dependencies": {
+        "jquery": ">=2.1.4"
+    },
+    "devDependencies": {
+        "grunt": "^0.4.5",
+        "grunt-cli": "~0.1.13",
+        "grunt-contrib-coffee": "^0.13.0",
+        "grunt-contrib-concat": "^0.5.1",
+        "grunt-contrib-jshint": "^0.11.2",
+        "grunt-contrib-uglify": "^0.9.1",
+        "grunt-contrib-watch": "^0.6.1",
+        "grunt-jscs": "^1.8.0"
+    },
+    "scripts": {
+        "test": "grunt travis --verbose"
+    },
+    "readmeFilename": "README.md"
+}

@@ -1,0 +1,33 @@
+{
+    "name": "snippet-helper",
+    "title": "Snippet Helper",
+    "version": "1.0.0",
+    "description": "An utility library of code snippets with Prism highlighting support.",
+    "author": {
+        "name": "Igor Lino",
+        "url": "http://igorlino.github.io/snippet-helper/"
+    },
+    "license": "MIT",
+    "main": [
+        "src/jquery.ez-plus.js",
+        "css/jquery.ez-plus.css"
+    ],
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "components"
+    ],
+    "bugs": "https://github.com/igorlino/snippet-helper/issues",
+    "homepage": "http://igorlino.github.io/snippet-helper/",
+    "docs": "http://igorlino.github.io/snippet-helper/examples",
+    "demo": "http://igorlino.github.io/snippet-helper/examples",
+    "dependencies": {
+        "jquery": ">=1.11.2"
+    },
+    "keywords": [
+        "code",
+        "snippets",
+        "prism",
+        "highlighting"
+    ]
+}
