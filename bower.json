@@ -1,8 +1,8 @@
 {
     "name": "snippet-helper",
     "title": "Snippet Helper",
-    "version": "1.0.0",
-    "description": "An utility library of code snippets with Prism highlighting support.",
+    "version": "1.0.1",
+    "description": "An utility library for loading code snippets with Prism highlighting support..",
     "author": {
         "name": "Igor Lino",
         "url": "http://igorlino.github.io/snippet-helper/"
