@@ -1,7 +1,7 @@
 {
     "name": "snippet-helper",
     "title": "Snippet Helper",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "An utility library for loading code snippets with Prism highlighting support.",
     "keywords": [
         "code",
