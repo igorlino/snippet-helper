@@ -45,7 +45,7 @@ Include jQuery and the plug-in on a page. Create the snippets that should be ava
 </script>
 ```
 
-For more information on how to setup and customise, [check the examples](http://igorlino.github.io/snippet-helper/).
+For more information on how to setup and customise, [check the examples](http://igorlino.github.io/elevatezoom-plus/examples.htm). The example sources are at the project [page](https://github.com/igorlino/elevatezoom-plus)
 
 ## License
 Licensed under MIT license.
